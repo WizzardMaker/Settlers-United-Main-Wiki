@@ -2,7 +2,8 @@
 
 ## Tutorials
 
-* [Installation & Benutzung](README.md)
+* [Installation](README.md)
+  * [Installation von Settlers United](tutorials/installation-and-benutzung/installation-settlers-united.md)
   * [Installation von Siedler III](tutorials/installation-and-benutzung/installation-von-siedler-iii.md)
   * [Installation von Siedler IV](tutorials/installation-and-benutzung/installation-von-siedler-iv.md)
 

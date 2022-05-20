@@ -52,7 +52,7 @@
     {% endhint %}
 
 
-3. Mit dem **Button** "_**Neues Spiel**_" oben rechts kannst du selbst ein Spiel erstellen.
+3. Mit dem Button "_**Neues Spiel**_" oben rechts kannst du selbst ein Spiel erstellen.
 4.  Mit einem Klick auf das **Zahnrad Symbol** kannst du kannst **Einstellungen** **ändern**.
 
     {% hint style="info" %}

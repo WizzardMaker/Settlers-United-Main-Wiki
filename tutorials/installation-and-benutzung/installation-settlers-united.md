@@ -1,42 +1,67 @@
-# Installation von Settlers United
+# Settlers United
 
-## Installation & Erste Schritte
+## Installation
 
-1. Ruf die Settlers United Webseite auf: [https://settlers-united.com](https://settlers-united.com).
-2. Klick auf den Download Button, um Settlers United herunterzuladen.
-3.  Führe die Installationsdatei aus sobald der Download abgeschlossen ist.
+1.  Ruf die _Settlers United_ Webseite auf: **** [**https://settlers-united.com**](https://settlers-united.com).
 
-    {% hint style="info" %}
-    Es kann sein, dass du 1. "Beibehalten und trotzdem ausführen" oder 2. "Weitere Informationen" und dann "Trotzdem ausführen" auswählen musst.
-    {% endhint %}
-4.  Klick auf den Button "Einloggen via Discord".
 
-    {% hint style="info" %}
-    Falls du noch keinen Discord Account hast, kannst du dir ganz einfach einen erstellen es wird lediglich eine E-Mail Adresse benötigt: Klick auf "Einloggen via Discord" und dann auf "Registrieren". Folge den Anweisungen und logge dich hinterher mit deinem neuen Discord Account ein.
-    {% endhint %}
-5.  In der Lobby siehst du offene und laufende Siedler 3 und Siedler 4 Spiele. Um mitspielen zu können, müssen Siedler 3 und/oder Siedler 4 installiert sein. Falls du Siedler 3 und/oder Siedler 4 noch nicht installiert hast, kannst du diese jetzt installieren und danach Settlers United einmal neu starten.
+2.  Lade _Settlers United_ mit einem klick auf den **Download-Button** herunter.
+
+
+3.  Führ die **Installation** aus, sobald der Download abgeschlossen ist.                                                                                                                                                                                                                           &#x20;
 
     {% hint style="info" %}
-    Unterstützt werden die Siedler 3 Gold-Edition, die Siedler 3 Ultimative Edition (GoG) und die Siedler 3 History-Edition. Welche Version du nutzt ist egal. Bei Siedler 4 muss zwingend die History Edition installiert sein.
+    Ggf. musst du die Ausführung der Installation erlauben:
+
+    * "_Beibehalten und trotzdem ausführen_"
+
+    &#x20;      oder
+
+    * "_Weitere Informationen_" und dann "_Trotzdem ausführen_"
     {% endhint %}
-6.  Mit einem Klick auf ein offenes Spiel kannst du diesem beitreten.
+
+
+4.  Klick auf den Button "_**Einloggen via Discord**_".
 
     {% hint style="info" %}
-    Siedler 3 und Siedler 4 müssen geschlossen sein, um einem Spiel beizutreten.
+    **Noch keinen Discord Account?**
+
+    Für einen neuen Discord Account wird lediglich eine E-Mail benötigt:
+
+    1. Klick auf "_Einloggen via Discord_".
+    2. Klick auf "_Registrieren_".
+    3. Folge den Anweisungen und logge dich hinterher mit deinem neuen Discord Account ein.
     {% endhint %}
 
-## Neues Spiel
 
-Mit dem Button "Neues Spiel" oben rechts kannst du selbst ein Spiel erstellen.
+5.  **Installiere **_**Siedler 3**_ bzw. _**Siedler 4**_, falls du es noch nicht gemacht hast.
 
-## Einstellungen
+    {% hint style="info" %}
+    Unterstützt werden:
 
-Du kannst Einstellungen vornehmen, indem du auf den Zahnrad-Button über „Neues Spiel“ klickst.&#x20;
+    * _Siedler 3 Gold Edition_, _Siedler 3 Ultimative Edition_ (_GoG_) und _Siedler 3 History Edition_ (welche Version du nutzt ist egal)
+    * _Siedler 4 History Edition_
+    {% endhint %}
 
-{% hint style="info" %}
-Die Einstellungen können nur vorgenommen werden, wenn Siedler geschlossen ist.
-{% endhint %}
 
-## Discord
+6. Fertig. Brauchst du Hilfe wie du **Einstellungen ändern**, **Spielen beitreten** oder **neue Spiele erstellen** kannst? Dann schau [hier](installation-settlers-united.md#erste-schritte).
 
-Wenn du dich mit anderen Spielern austauschen möchtest, kannst du das über die Text- und Sprachkanäle in Discord tun, die du links siehst.
+## Erste Schritte
+
+1. In der Lobby siehst du **offene** und **laufende** _Siedler 3_ und _Siedler 4_ Spiele.&#x20;
+2.  Mit einem Klick auf ein offenes Spiel kannst du diesem **beitreten**.
+
+    {% hint style="info" %}
+    _Siedler 3_ und _Siedler 4_ müssen **geschlossen** sein, um einem Spiel beitreten zu können.
+    {% endhint %}
+
+
+3. Mit dem **Button** "_**Neues Spiel**_" oben rechts kannst du selbst ein Spiel erstellen.
+4.  Mit einem Klick auf das **Zahnrad Symbol** kannst du kannst **Einstellungen** **ändern**.
+
+    {% hint style="info" %}
+    Die Einstellungen können nur vorgenommen werden, wenn **Siedler geschlossen** ist.
+    {% endhint %}
+
+
+5. Wenn du dich mit anderen Spielern austauschen möchtest, kannst du das über die Text- und Sprachkanäle in _**Discord**_ tun die du links siehst.

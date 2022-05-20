@@ -3,7 +3,7 @@
 ## Tutorials
 
 * [Installation](README.md)
-  * [Settlers United](tutorials/installation-and-benutzung/installation-settlers-united.md)
+  * [Installation von Settlers United](tutorials/installation-and-benutzung/installation-settlers-united.md)
 
 ***
 

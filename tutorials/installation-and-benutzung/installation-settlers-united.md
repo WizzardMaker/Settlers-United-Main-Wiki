@@ -8,14 +8,10 @@
 2.  Lade _Settlers United_ mit einem klick auf den **Download-Button** herunter.
 
 
-3.  Führ die **Installation** aus, sobald der Download abgeschlossen ist.                                                                                                                                                                                                                           &#x20;
+3.  Führ die **Installation** aus, sobald der Download abgeschlossen ist.
 
     {% hint style="info" %}
     Ggf. musst du die Ausführung der Installation erlauben:
-
-    * "_Beibehalten und trotzdem ausführen_"
-
-    &#x20;      oder
 
     * "_Weitere Informationen_" und dann "_Trotzdem ausführen_"
     {% endhint %}

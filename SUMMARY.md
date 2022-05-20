@@ -4,8 +4,6 @@
 
 * [Installation](README.md)
   * [Settlers United](tutorials/installation-and-benutzung/installation-settlers-united.md)
-  * [Siedler III](tutorials/installation-and-benutzung/installation-von-siedler-iii.md)
-  * [Siedler IV](tutorials/installation-and-benutzung/installation-von-siedler-iv.md)
 
 ***
 

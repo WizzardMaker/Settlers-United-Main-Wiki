@@ -44,7 +44,7 @@
     {% endhint %}
 
 
-6. Fertig. Brauchst du Hilfe wie du **Einstellungen ändern**, **Spielen beitreten** oder **neue Spiele erstellen** kannst? Dann schau [hier](installation-settlers-united.md#erste-schritte).
+6. Fertig. Brauchst du Hilfe wie du **Einstellungen ändern**, **Spielen beitreten** oder **neue Spiele erstellen** kannst? Dann schau im nächsten Absatz "_Erste Schritte_".
 
 ## Erste Schritte
 

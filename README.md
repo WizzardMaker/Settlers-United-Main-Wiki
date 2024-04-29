@@ -1,12 +1,8 @@
-# Installation
+# Videoguide (german)
 
-{% content-ref url="tutorials/installation/settlers-united-installation.md" %}
-[settlers-united-installation.md](tutorials/installation/settlers-united-installation.md)
-{% endcontent-ref %}
-
-## Videoguide (german)
-
-{% embed url="https://www.youtube.com/watch?v=Xop5QWiw_5I" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/Xop5QWiw_5I" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 German Installation Guide
-{% endembed %}
+</figcaption>
+            
 

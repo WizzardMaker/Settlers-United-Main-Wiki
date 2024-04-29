@@ -1,6 +1,7 @@
 # Installation
 
-If you have problems installing Settlers United, please follow these steps. \
+If you have problems installing Settlers United, please follow these steps. 
+
 Feel free to ask for help in our [Discord](https://discord.gg/N22X3QDxMu), after you have done these steps without success
 
 ## 1. Update your computer/windows & configure your virus scanner

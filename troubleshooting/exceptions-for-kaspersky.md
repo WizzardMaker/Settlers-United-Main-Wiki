@@ -9,7 +9,8 @@ For "Customize Exceptions" add the following:
 * C:\Users\Appdata\Roaming\Settlers United
 * the entire Ubisoft folder, to be on the safe side
 
-&#x20;It is best to tick all the boxes for the respective options.\
+&#x20;It is best to tick all the boxes for the respective options.
+
 
 
 Then list the following under "Customize exceptions" under "Trusted programs":

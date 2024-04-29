@@ -11,7 +11,8 @@ Bei "Ausnahmen anpassen" muss Folgendes hinzugefügt werden:
 
 Am besten alle Häkchen bei den jeweiligen Auswahlmöglichkeiten an.
 
-\
+
+
 Danach unterhalb von "Ausnahmen anpassen" bei "Vertrauenswürdige Programme" folgende anführen:
 
 * C:\Users\Public\Desktop\Settlers United.Ink

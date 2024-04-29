@@ -20,7 +20,8 @@ Wenn du Probleme bei der Installation von Siedler United hast, befolge bitte die
 ## 3. Entfernen aller Dateien und Neuinstallation
 
 1. Deinstalliere Settlers United (erneut) und starte deinen Rechner neu.
-2. Lösche unter „Windowstaste“+ “R“ -> %appdata% -> „Settlers United“ alle Dateien.\
+2. Lösche unter „Windowstaste“+ “R“ -> %appdata% -> „Settlers United“ alle Dateien.
+
    Lösche unter „Windowstaste“+ “R“ -> %localappdata% ->“ settlers-united-updater“ alle Dateien.
 3. Lade dir die aktuelle Version (erneut) herunter ([www.settlers-united.com](https://www.settlers-united.com)) und installiere sie.&#x20;
 
@@ -28,7 +29,8 @@ Wenn du Probleme bei der Installation von Siedler United hast, befolge bitte die
 
 ## 4. Neuinstallation von Siedler III und / oder Siedler IV
 
-1. Deinstalliere Siedler III und / oder Siedler IV vollständig. \
+1. Deinstalliere Siedler III und / oder Siedler IV vollständig. 
+
    **Wichtig**: Nach der Deinstallation muss auch der Installationsordner von Siedler III und / oder Siedler IV gelöscht werden.
 2. Installiere Siedler III und / oder Siedler IV neu und starte einmalig das jeweilige Spiel ohne Settlers United zu verwenden.
 
